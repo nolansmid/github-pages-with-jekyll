@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: ColorCorrectSolutions
+author: Nolan Smid
+email: mycomouser@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My site is for companies or people that want to buy special types of printers, inks, and many different types of paper.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: squid4real
+github_username: nolansmid
 
 show_excerpts: true # set to false to remove excerpts on the homepage
