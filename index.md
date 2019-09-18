@@ -1,5 +1,5 @@
 # ColorCorrectSolutions blog 
 
-Welcome to my amazing Blog!!
+Welcome to ColorCorrectSolutions blog
 
-I'm glad you are here. I plan to tell you about printers and everything thaat goes into it.
+We are going to talk about printers and all the stuff that goes into making them as well as what kind of papers and inks can go into them.
