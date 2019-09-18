@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   My site is for companies or people that want to buy special types of printers, inks, and many different types of paper.
 
 # social links
-
-github_username:  my github handle is: nolansmid
+twitter_username: squid4real
+github_username: nolansmid
 
 show_excerpts: true # set to false to remove excerpts on the homepage
